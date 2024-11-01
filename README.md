@@ -4,5 +4,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=affandipratam&label=Profile%20views&color=0e75b6&style=flat" alt="affandipratam" /> </p>
 
 - 📫 How to reach me **afandip911@gmail.com**
-
-<h3 align="left">Languages and Tools:</h3>
